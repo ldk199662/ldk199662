@@ -3,7 +3,7 @@
 <br/>
 <br/>
 
-<div><h2>Studying</h2></div>
+<div><h2>현재 공부중</h2></div>
 
 <img src="https://img.shields.io/badge/SPRING BOOT-6DB33F?style=flat-square&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=&logoColor=white">
 
