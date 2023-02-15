@@ -1,5 +1,7 @@
-### Hi there 👋
+<div align="center";><h1>개발하는 중....</h1></div>
 
+
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@ray/)](https://velog.io/@ray/)
 <!--
 **ldk199662/ldk199662** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
